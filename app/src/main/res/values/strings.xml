@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Midterm 07600518</string>
+    <string name="login_to_facebook">Login To Facebook</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="more">More</string>
+    <string name="edd_profile">Edd Profile</string>
+    <string name="view_as">View As</string>
+    <string name="add_to_story">Add to Story</string>
+</resources>
